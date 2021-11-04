@@ -7,3 +7,6 @@ A program written in Rust, that allows the user to find the current location of 
 2. `reqwest`
 3. `staticmap`
 4. `serde_json`
+
+Build Tests :  
+![Workflow](https://github.com/suvadityamuk/Rust-ISS-Location/blob/master/.github/workflows/rust.yml/badge.svg)
