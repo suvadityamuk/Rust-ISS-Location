@@ -9,4 +9,4 @@ A program written in Rust, that allows the user to find the current location of 
 4. `serde_json`
 
 Build Tests :  
-![Workflow](![example workflow](https://github.com/suvadityamuk/Rust-ISS-Location/actions/workflows/rust.yml/badge.svg))
+![Workflow](https://github.com/suvadityamuk/Rust-ISS-Location/actions/workflows/rust.yml/badge.svg)
