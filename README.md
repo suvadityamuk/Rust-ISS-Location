@@ -1,4 +1,4 @@
-# Rust-ISS-Location
+# ISS Location ViewFinder
 A program written in Rust, that allows the user to find the current location of the International Space Station and see it on a map. Made as a for-practice project.
 
 # Dependencies:
