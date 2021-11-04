@@ -8,5 +8,5 @@ A program written in Rust, that allows the user to find the current location of 
 3. `staticmap`
 4. `serde_json`
 
-Build Tests :  
+## Build Tests:  
 ![Workflow](https://github.com/suvadityamuk/Rust-ISS-Location/actions/workflows/rust.yml/badge.svg)
